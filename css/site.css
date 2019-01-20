@@ -1851,11 +1851,11 @@ p.align-left{text-align:left}
 p.align-justify{text-align:justify}
 p.align-center{text-align:center}
 .contentStyled dl,.contentStyled .indent,.contentStyled p{margin-bottom:35px}
-.contentStyled a{text-decoration:none;color:#d49400;transition:all 0.3s ease-out}
+.contentStyled a{text-decoration:none;color:#000000;transition:all 0.3s ease-out}
 .contentStyled a.arrowlink{color:#000;font-weight:bold}
 .contentStyled a.arrowlink:after{content:" \e907";font-family:"glyphs_cubcadet";
 font-weight:normal}
-.contentStyled a:hover{color:#ffbc22}
+.contentStyled a:hover{color:#6b6b6b}
 .contentStyled p.align-center{text-align:center}
 .contentStyled aside p{margin:0}
 .contentStyled aside{padding:15px;color:#666;margin-bottom:35px}
